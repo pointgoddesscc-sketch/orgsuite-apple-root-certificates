@@ -1,0 +1,73 @@
+{
+  "name": "orgsuite-apple-root-certificates",
+  "orgsuiteStatus": "Completed",
+  "copiedFrom": {
+    "title": "Available root certificates for Apple operating systems",
+    "url": "https://support.apple.com/en-us/103272",
+    "applePublished": "2025-12-17",
+    "orgsuiteIndexed": "2026-09-11"
+  },
+  "currentRootStore": {
+    "trustStoreVersion": "2025082000",
+    "url": "https://support.apple.com/en-us/126047",
+    "appliesTo": [
+      "iOS 26",
+      "iPadOS 26",
+      "macOS 26",
+      "tvOS 26",
+      "visionOS 26",
+      "watchOS 26"
+    ],
+    "note": "Full certificate table including fingerprints lives only on Apple. OrgSuite does not duplicate the table."
+  },
+  "previousSharedRootStores": [
+    { "label": "iOS 18 / iPadOS 18 / macOS 15 / tvOS 18 / visionOS 2 / watchOS 11", "url": "https://support.apple.com/en-us/121672" },
+    { "label": "iOS 17.4 / iPadOS 17.4 / macOS 14.4 / tvOS 17.4 / visionOS 1.1 / watchOS 10.4", "url": "https://support.apple.com/en-us/121728" },
+    { "label": "iOS 17 / iPadOS 17 / macOS 14 / tvOS 17 / watchOS 10", "url": "https://support.apple.com/en-us/105116" },
+    { "label": "iOS 16.5 / iPadOS 16.5 / macOS 13.5 / tvOS 16.5 / watchOS 9.5", "url": "https://support.apple.com/en-us/102666" },
+    { "label": "iOS 16 / iPadOS 16 / macOS 13 / tvOS 16 / watchOS 9", "url": "https://support.apple.com/en-us/103100" },
+    { "label": "iOS 15.1 / iPadOS 15.1 / macOS 12.1 / tvOS 15.1 / watchOS 8.1", "url": "https://support.apple.com/en-us/103254" },
+    { "label": "iOS 15 / iPadOS 15 / macOS 12 / tvOS 15 / watchOS 8", "url": "https://support.apple.com/en-us/103252" },
+    { "label": "iOS 14.2 / iPadOS 14.2 / macOS 11 / tvOS 14.2 / watchOS 7.1", "url": "https://support.apple.com/en-us/103251" },
+    { "label": "iOS 14.0 / macOS 11.0 / tvOS 14.0 / watchOS 7.0", "url": "https://support.apple.com/en-us/103248" },
+    { "label": "iOS 13.4 / macOS 10.15.4 / tvOS 13.4 / watchOS 6.2", "url": "https://support.apple.com/en-us/103249" },
+    { "label": "iOS 13 / iPadOS 13 / macOS 10.15 / tvOS 13 / watchOS 6", "url": "https://support.apple.com/en-us/103243" },
+    { "label": "iOS 12.1.3 / macOS 10.14.3 / tvOS 12.1.2 / watchOS 5.1.3", "url": "https://support.apple.com/en-us/103242" },
+    { "label": "iOS 12 / macOS 10.14 / tvOS 12 / watchOS 5", "url": "https://support.apple.com/en-us/103247" }
+  ],
+  "archivedRootStores": {
+    "iOS": [
+      { "label": "iOS 11", "url": "https://support.apple.com/kb/HT208125" },
+      { "label": "iOS 10", "url": "https://support.apple.com/kb/HT207177" },
+      { "label": "iOS 9", "url": "https://support.apple.com/kb/HT205205" },
+      { "label": "iOS 8", "url": "https://support.apple.com/kb/HT205214" },
+      { "label": "iOS 7", "url": "https://support.apple.com/kb/HT203065" }
+    ],
+    "macOS": [
+      { "label": "macOS High Sierra", "url": "https://support.apple.com/kb/HT208127" },
+      { "label": "macOS Sierra", "url": "https://support.apple.com/kb/HT207189" },
+      { "label": "OS X El Capitan", "url": "https://support.apple.com/kb/HT205204" },
+      { "label": "OS X Yosemite", "url": "https://support.apple.com/kb/HT205218" },
+      { "label": "OS X Mavericks", "url": "https://support.apple.com/kb/HT203120" }
+    ],
+    "watchOS": [
+      { "label": "watchOS 4", "url": "https://support.apple.com/kb/HT208128" },
+      { "label": "watchOS 3", "url": "https://support.apple.com/kb/HT207190" },
+      { "label": "watchOS 2", "url": "https://support.apple.com/kb/HT205203" },
+      { "label": "Watch OS", "url": "https://support.apple.com/kb/HT205216" }
+    ],
+    "tvOS": [
+      { "label": "tvOS 11", "url": "https://support.apple.com/kb/HT208129" },
+      { "label": "tvOS 10", "url": "https://support.apple.com/kb/HT207232" }
+    ]
+  },
+  "relatedOrgSuiteRepos": [
+    "https://github.com/pointgoddesscc-sketch/orgsuite-beta-developer-certificate",
+    "https://github.com/pointgoddesscc-sketch/orgsuite-apple-platform",
+    "https://github.com/pointgoddesscc-sketch/orgsuite-ios-licenses-acknowledgements",
+    "https://github.com/pointgoddesscc-sketch/orgsuite-workspace"
+  ],
+  "owner": "pointgoddesscc-sketch",
+  "contact": "pointgoddesscc@gmail.com",
+  "workplace": "PSE Management / OrgSuite Codex App"
+}
